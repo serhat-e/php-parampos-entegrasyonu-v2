@@ -24,7 +24,6 @@ if(WHICH == "TEST"){
 define("CLIENT_CODE","10738");
 define("CLIENT_USERNAME","Test");
 define("CLIENT_PASSWORD","Test");
-define("CLIENT_PASSWORD","Test");
 define("GUID","0c13d406-873b-403b-9c09-a5766840d98c");
 
 /**
